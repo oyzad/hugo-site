@@ -1,0 +1,43 @@
+body {
+  font: 1em/var(--lh) monospace;
+  margin: 0;
+  padding:2em 2em 0;
+  height: 100%;
+  display: grid;
+  flex-direction: column;
+  justify-content: center; 
+  background-color: #eee;
+  /*text-align: center;*/
+}
+/*body {
+	font: 1em/var(--lh) monospace;
+	background: #eee;	
+	padding: 16vh 2em 0; 
+	display: grid;
+	grid: 1fr / minmax(auto, 64ch);
+	justify-content: center;
+	height: 100%;
+}*/
+h1, h2 {
+  color: #333;
+}
+.post-item {
+  padding: 0.25em 0; /* Adds vertical spacing between posts */
+}
+
+/* Optional: style the whole list */
+.post-list {
+  padding-left: 1rem; /* Indent list from left */
+}
+
+a {
+  color: inherit; /* Matches surrounding text */
+  text-decoration: underline dotted; /* Dotted underline */
+  text-underline-offset: 2px; /* Optional: adds a bit of space below */
+}
+
+a:hover {
+  /* color: #007acc;  Optional: change color on hover */
+  /* text-decoration-style: solid;  Solid underline on hover, if you want */
+}
+
