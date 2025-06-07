@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on oyzad&#39;s desktop</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Home on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/posts/hugo/</link>
+      <link>https://example.org/posts/hugo/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo/</guid>
+      <guid>https://example.org/posts/hugo/</guid>
       <description>&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a tool that can make it easier to deploy static websites.&#xA;It does this by giving you templates and many other things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://example.org/posts/test/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://example.org/posts/test/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;this is a heading&lt;/h1&gt;&#xA;&lt;p&gt;what the helll&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; this is a checkbox&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; this is one too&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;what do you vote for?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; FOSS&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Proprietary&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Links</title>
-      <link>http://localhost:1313/links/</link>
+      <link>https://example.org/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description>&lt;h2 id=&#34;find-me-online&#34;&gt;Find me online&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/oyzad&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:me@oyzad.xyz&#34;&gt;me@oyzad.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://example.org/links/</guid>
+      <description>&lt;h2 id=&#34;find-me-online&#34;&gt;Find me online&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/oyzad&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:me@oyzad.xyz&#34;&gt;me@oyzad.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.org/posts/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://example.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://example.org/people/</guid>
       <description>&lt;h3 id=&#34;cool-people-and-sites-on-the-internet&#34;&gt;Cool people and sites on the internet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sylvanfranklin.com/&#34;&gt;https://sylvanfranklin.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;website inspired by &lt;a href=&#34;https://williamjansson.com/&#34;&gt;https://williamjansson.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://motherfuckingwebsite.com/&#34;&gt;https://motherfuckingwebsite.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://suckless.org&#34;&gt;https://suckless.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
