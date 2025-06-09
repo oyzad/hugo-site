@@ -42,4 +42,7 @@ a:hover {
   /* color: #007acc;  Optional: change color on hover */
   /* text-decoration-style: solid;  Solid underline on hover, if you want */
 }
+a i { border-bottom: 1px dotted }
+a:active i { border: none }
 
+.gpg i { background: #ddd }
