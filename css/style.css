@@ -28,7 +28,9 @@ h1, h2 {
 /* Optional: style the whole list */
 .post-list {
   padding:2em 2em 0;
-  height: 100%;
+  display: grid;
+  flex-direction: column;
+  justify-content: center;  height: 100%;
   margin: 0;
 }
 
