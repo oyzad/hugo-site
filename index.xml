@@ -9,18 +9,18 @@
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://example.org/posts/hugo/</link>
+      <title>Programs and Equipment</title>
+      <link>https://example.org/posts/programs-and-equipment/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hugo/</guid>
-      <description>&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a tool that can make it easier to deploy static websites.&#xA;It does this by giving you templates and many other things.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/programs-and-equipment/</guid>
+      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro&lt;/li&gt;&#xA;&lt;li&gt;void on my rasberry pi which. It uses runit instead of systemd&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use kitty on both OS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
     </item>
     <item>
-      <title>test</title>
-      <link>https://example.org/posts/test/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/test/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;this is a heading&lt;/h1&gt;&#xA;&lt;p&gt;what the helll&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; this is a checkbox&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; this is one too&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;what do you vote for?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; FOSS&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Proprietary&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>The porter</title>
+      <link>https://example.org/posts/the-porter/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/the-porter/</guid>
+      <description>&lt;h1 id=&#34;the-porter&#34;&gt;The porter&lt;/h1&gt;&#xA;&lt;p&gt;The porter appears on the stage in a drunken stupor.&#xA;His character serves as comic relief.&#xA;There are hidden messages in the soliloquy&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;adds unsettling humour to the soliloquy.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;knock, knock, knock. Macbeth knocking at the gates of his own hell abandoning his humanity for an evil or fiendish nature.&lt;/li&gt;&#xA;&lt;li&gt;ironically imagines himself to be the porter of the gate of hell “if a man were porter of hell-gate, he should have old turning the key.”&lt;/li&gt;&#xA;&lt;li&gt;he then imagines three people approaching the gates of hell&lt;/li&gt;&#xA;&lt;li&gt;A farmer who stored up grain in hope of making a profit but kills himself when a good harvest lowers the price&lt;/li&gt;&#xA;&lt;li&gt;an equivocator who covers up his crimes with the skill of his tongue&lt;/li&gt;&#xA;&lt;li&gt;a tailor who is discovered cheating his customers by cutting cloth out of the garment he sells&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;macbeths-sins&#34;&gt;Macbeth’s sins&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These three characters represents a different sin that is in Macbeth.&lt;/li&gt;&#xA;&lt;li&gt;The farmer overreaches but loses everything instead&lt;/li&gt;&#xA;&lt;li&gt;The equivocator reveals how Macbeth is a skilful liar who pledges unfailing allegiance to the king yet murders him in cold blood&lt;/li&gt;&#xA;&lt;li&gt;the tailor makes the clothes look better than they are. Macbeth&amp;rsquo;s false aspirations for the crown he is essentially clothing himself in a lie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ending&#34;&gt;Ending&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;He ends the soliloquy with the question “What are you?”&lt;/li&gt;&#xA;&lt;li&gt;The porter breaks the fourth wall, seeming to speak to the audience- asks us what one of the sinners we are.&lt;/li&gt;&#xA;&lt;li&gt;this line would have made the audience question their own morality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The porters last line “I pray you, remember the porter.” Perhaps a warning to the audience not to follow Macbeth’s traitorous exampleThe madness and humour in the porter’s speech amplify the horror of the play as a whole.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Links</title>
@@ -35,6 +35,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/people/</guid>
       <description>&lt;h3 id=&#34;cool-people-and-sites-on-the-internet&#34;&gt;Cool people and sites on the internet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sylvanfranklin.com/&#34;&gt;https://sylvanfranklin.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;website inspired by &lt;a href=&#34;https://williamjansson.com/&#34;&gt;https://williamjansson.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://motherfuckingwebsite.com/&#34;&gt;https://motherfuckingwebsite.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://suckless.org&#34;&gt;https://suckless.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>https://example.org/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/uses/</guid>
+      <description>&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Macbook Pro late 2013&lt;/li&gt;&#xA;&lt;li&gt;Rasberry Pi 4b void&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OS: Macos Big sur / void&lt;/li&gt;&#xA;&lt;li&gt;WM: yabai / dwm&lt;/li&gt;&#xA;&lt;li&gt;SH: zsh / bash&lt;/li&gt;&#xA;&lt;li&gt;Terminal: kitty / iterm2&lt;/li&gt;&#xA;&lt;li&gt;Text editor: nvim&lt;/li&gt;&#xA;&lt;li&gt;Bar: sketchybar&lt;/li&gt;&#xA;&lt;li&gt;Music player: cmus / spicetify&lt;/li&gt;&#xA;&lt;li&gt;Video player: mpv / vlc&lt;/li&gt;&#xA;&lt;li&gt;Image viewer: nsxiv&lt;/li&gt;&#xA;&lt;li&gt;Web browser: Brave / Min&lt;/li&gt;&#xA;&lt;li&gt;Note taking: Obsidian&lt;/li&gt;&#xA;&lt;li&gt;Education: anki&lt;/li&gt;&#xA;&lt;li&gt;Misc: Soulseekqt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.org/posts/programs-and-equipment&#34;&gt;Details&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

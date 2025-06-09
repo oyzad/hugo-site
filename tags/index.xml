@@ -9,31 +9,24 @@
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding</title>
-      <link>https://example.org/tags/coding/</link>
+      <title>Computing</title>
+      <link>https://example.org/tags/computing/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/coding/</guid>
+      <guid>https://example.org/tags/computing/</guid>
       <description></description>
     </item>
     <item>
-      <title>Website</title>
-      <link>https://example.org/tags/website/</link>
+      <title>Tech</title>
+      <link>https://example.org/tags/tech/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/website/</guid>
+      <guid>https://example.org/tags/tech/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag1</title>
-      <link>https://example.org/tags/tag1/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>https://example.org/tags/tag2/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/tag2/</guid>
+      <title>English</title>
+      <link>https://example.org/tags/english/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/english/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on oyzad&#39;s desktop</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on oyzad&#39;s desktop</description>
+    <title>English on oyzad&#39;s desktop</title>
+    <link>https://example.org/tags/english/</link>
+    <description>Recent content in English on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Programs and Equipment</title>
-      <link>https://example.org/posts/programs-and-equipment/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/programs-and-equipment/</guid>
-      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro&lt;/li&gt;&#xA;&lt;li&gt;void on my rasberry pi which. It uses runit instead of systemd&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use kitty on both OS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The porter</title>
       <link>https://example.org/posts/the-porter/</link>

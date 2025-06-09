@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on oyzad&#39;s desktop</title>
-    <link>https://example.org/tags/coding/</link>
+    <link>http://localhost:1313/tags/coding/</link>
     <description>Recent content in Coding on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://example.org/posts/hugo/</link>
+      <link>http://localhost:1313/posts/hugo/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hugo/</guid>
+      <guid>http://localhost:1313/posts/hugo/</guid>
       <description>&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a tool that can make it easier to deploy static websites.&#xA;It does this by giving you templates and many other things.&lt;/p&gt;</description>
     </item>
   </channel>
