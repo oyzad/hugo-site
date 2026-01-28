@@ -6,7 +6,7 @@ body {
   display: grid;
   flex-direction: column;
   justify-content: center; 
-  background-color: #eee;
+  background-color: #fffff0;
   /*text-align: center;*/
 }
 /*body {
