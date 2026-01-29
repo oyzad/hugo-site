@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stoicism on oyzad&#39;s desktop</title>
-    <link>https://example.org/tags/stoicism/</link>
+    <link>http://localhost:1313/tags/stoicism/</link>
     <description>Recent content in Stoicism on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/stoicism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stoicism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meditations by Marcus Aurelius</title>
-      <link>https://example.org/posts/meditations/</link>
+      <link>http://localhost:1313/posts/meditations/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/meditations/</guid>
-      <description>&lt;p&gt;Meditations was written by the Roman emperor Marcus Aurelius without any intention of publication. The &lt;em&gt;Meditations&lt;/em&gt; offer a collection of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe.&lt;/p&gt;&#xA;&lt;p&gt;Below I have written about certain sections that have really spoken to me&lt;/p&gt;&#xA;&lt;h2 id=&#34;721&#34;&gt;7.21&lt;/h2&gt;&#xA;&lt;h2 id=&#34;close-is-the-time-when-you-will-forget-all-things-and-close-too-the-time-when-all-will-forget-you&#34;&gt;&lt;strong&gt;Close is the time when you will forget all things; and close, too, the time when all will forget you.&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Marcus Aurelius reminds us that no matter who we are or what we do, sooner or later, we will be forgotten. This quote symbolises his message very well. Perhaps it had an alternative meaning about not judging others for their actions as well, that in the moment you may want to judge them but you need to remember that everyone is different and they will not be remembered any way so there is no need.&#xA;It could also mean that in the end nothing really matters so do what you enjoy. People will not remember you for something that you didn&amp;rsquo;t do. For example if you really wanted to run a marathon or go to a different country, they wouldn&amp;rsquo;t go &amp;lsquo;Oh do you remember &lt;em&gt;X&lt;/em&gt; they never ran a marathon&amp;rsquo; they wouldn&amp;rsquo;t care about stuff that you didn&amp;rsquo;t do. This quote sort of ties in with the fact that we are all going to die so what is the point in life if we are all forgotten.&#xA;This - i feel - is a very powerful quote as it reminds you that whatever you do It will be forgotten, so enjoy yourself, do something that is &amp;lsquo;cringe&amp;rsquo; or silly, do something that you didn&amp;rsquo;t think you would be able to do.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/meditations/</guid>
+      <description>&lt;p&gt;Meditations was written by the Roman emperor Marcus Aurelius without any intention of publication. The &lt;em&gt;Meditations&lt;/em&gt; offer a collection of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe.&lt;/p&gt;&#xA;&lt;p&gt;Below I have written about certain sections that have really spoken to me&lt;/p&gt;&#xA;&lt;h2 id=&#34;654&#34;&gt;6.54&lt;/h2&gt;&#xA;&lt;h2 id=&#34;that-which-is-not-good-for-the-swarm-neither-is-it-good-for-the-bee&#34;&gt;&lt;strong&gt;That which is not good for the swarm, neither is it good for the bee.&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To me this represents the constraints of society, where we as a race constantly do things that will not benefit others. We are digging ourselves into a hole that will soon be inescapable.&#xA;He could be referring to how how can a person be good when society is bad to them. This could reveal how society has been set up to oppress the common folk.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

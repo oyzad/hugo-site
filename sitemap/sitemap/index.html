@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="UTF-8">
-  <title>Tech</title>
+  <title>Site Map</title>
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/png" href="/images/O_2.png"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,13 +14,19 @@
 
   <main>
           
-  <h2>Tech</h2>
-  
-  <ul>
-    
-      <li><a href="/posts/programs/">Programs and Equipment</a></li>
-    
-  </ul>
+  <article>
+    <h2>Site Map</h2>
+    <h1 id="complete-site-map">Complete Site Map</h1>
+<p>{{ range .Site.Sections }}</p>
+<h2 id="-name--title-">{{ .Name | title }}</h2>
+<p>{{ range .Pages.ByTitle }}</p>
+<ul>
+<li><strong>[{{ .Title }}]({{ .Permalink }})</strong>
+{{ end }}
+{{ end }}</li>
+</ul>
+
+  </article>
 
   </main>
     

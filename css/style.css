@@ -33,15 +33,51 @@ h1, h2 {
   margin: 0;
 }
 
+
 a {
   color: inherit; /* Matches surrounding text */
-  text-decoration: underline dotted; /* Dotted underline */
-  text-underline-offset: 2px; /* Optional: adds a bit of space below */
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+  position: relative; /* For highlight effect */
+  transition: all 0.3s ease;
+}
+
+a::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #2d5a5a; /* Teal highlight for ivory bg */
+  transition: width 0.3s ease;
 }
 
 a:hover {
-  /* color: #007acc;  Optional: change color on hover */
-  /* text-decoration-style: solid;  Solid underline on hover, if you want */
+  color: #007acc; /* Keep your blue hover */
+  background: rgba(45, 90, 90, 0.1); /* Subtle teal background */
+  text-decoration: underline solid; /* Solid underline on hover */
+}
+
+a:hover::before {
+  width: 100%; /* Full-width teal highlight bar */
+}
+
+
+/* Ivory-optimized text selection */
+::selection {
+    background: #2d5a5a;
+    color: white;
+}
+
+*::selection {
+    background: #2d5a5a;
+    color: white;
+}
+
+::-moz-selection {
+    background: #2d5a5a;
+    color: white;
 }
 
 

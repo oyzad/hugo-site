@@ -2,7 +2,7 @@
 <html lang="en">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8">
-  <title>Tech</title>
+  <title>All Pages</title>
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/png" href="/images/O_2.png"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,13 +14,22 @@
 
   <main>
           
-  <h2>Tech</h2>
-  
-  <ul>
-    
-      <li><a href="/posts/programs/">Programs and Equipment</a></li>
-    
-  </ul>
+  <article>
+    <h2>All Pages</h2>
+    <h1 id="-all-pages-on-this-site">📋 All Pages on This Site</h1>
+<ul>
+{{ range .Site.RegularPages.ByTitle }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Section }})</li>
+{{ end }}
+</ul>
+<style>
+ul { list-style: none; padding: 0; }
+li { margin: 0.5rem 0; }
+li a { color: #2d5a5a; }
+li a:hover::before { width: 100%; }
+</style>
+
+  </article>
 
   </main>
     
