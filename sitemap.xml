@@ -2,52 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2026-01-28T21:13:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://example.org/now/</loc>
     <lastmod>2026-01-28T21:13:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/meditations/</loc>
+    <loc>https://example.org/posts/meditations/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>https://example.org/tags/philosophy/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stoicism/</loc>
+    <loc>https://example.org/tags/stoicism/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/computing/</loc>
+    <loc>https://example.org/tags/computing/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/programs/</loc>
+    <loc>https://example.org/posts/programs/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://example.org/tags/tech/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
+    <loc>https://example.org/tags/english/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/porter/</loc>
+    <loc>https://example.org/posts/porter/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/info/</loc>
+    <loc>https://example.org/info/</loc>
   </url><url>
-    <loc>http://localhost:1313/sitemap/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://example.org/people/</loc>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
-  </url><url>
-    <loc>http://localhost:1313/uses/</loc>
+    <loc>https://example.org/uses/</loc>
   </url>
 </urlset>

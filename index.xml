@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on oyzad&#39;s desktop</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Home on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2026 21:13:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now</title>
-      <link>http://localhost:1313/now/</link>
+      <link>https://example.org/now/</link>
       <pubDate>Wed, 28 Jan 2026 21:13:00 +0000</pubDate>
-      <guid>http://localhost:1313/now/</guid>
-      <description>&lt;h2 id=&#34;academic&#34;&gt;Academic&lt;/h2&gt;&#xA;&lt;p&gt;I am in my first year of A levels studying Maths, Physics, Computer Science and Further Mathematics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;p&gt;Working on a homelab to self host tools on my rasberry pi 4b. Most notably &lt;a href=&#34;https://beaverhabits.com/&#34;&gt;Beaver Habits&lt;/a&gt;, &lt;a href=&#34;https://pi-hole.net/&#34;&gt;Pi-hole&lt;/a&gt; and &lt;a href=&#34;n8n.io&#34;&gt;n8n&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;p&gt;I have been consumed by many interesting titles and have had a few books on the go for the past months. I have been reading &lt;a href=&#34;http://localhost:1313/posts/meditations&#34;&gt;Meditations&lt;/a&gt; by Marcus Aurelius, &lt;strong&gt;1984&lt;/strong&gt; by George Orwell and &lt;strong&gt;Rita Hayworth and Shawshank Redemption&lt;/strong&gt; by Stephen King.&lt;/p&gt;</description>
+      <guid>https://example.org/now/</guid>
+      <description>&lt;h2 id=&#34;academic&#34;&gt;Academic&lt;/h2&gt;&#xA;&lt;p&gt;I am in my first year of A levels studying Maths, Physics, Computer Science and Further Mathematics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;p&gt;Working on a homelab to self host tools on my rasberry pi 4b. Most notably &lt;a href=&#34;https://beaverhabits.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;Beaver Habits&lt;/a&gt;&#xA;, &lt;a href=&#34;https://pi-hole.net/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;Pi-hole&lt;/a&gt;&#xA; and &lt;a href=&#34;n8n.io&#34;&gt;n8n&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;p&gt;I have been consumed by many interesting titles and have had a few books on the go for the past months. I have been reading &lt;a href=&#34;https://example.org/posts/meditations&#34;&gt;Meditations&lt;/a&gt;&#xA; by Marcus Aurelius, &lt;strong&gt;1984&lt;/strong&gt; by George Orwell and &lt;strong&gt;Rita Hayworth and Shawshank Redemption&lt;/strong&gt; by Stephen King.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meditations by Marcus Aurelius</title>
-      <link>http://localhost:1313/posts/meditations/</link>
+      <link>https://example.org/posts/meditations/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meditations/</guid>
+      <guid>https://example.org/posts/meditations/</guid>
       <description>&lt;p&gt;Meditations was written by the Roman emperor Marcus Aurelius without any intention of publication. The &lt;em&gt;Meditations&lt;/em&gt; offer a collection of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe.&lt;/p&gt;&#xA;&lt;p&gt;Below I have written about certain sections that have really spoken to me&lt;/p&gt;&#xA;&lt;h2 id=&#34;654&#34;&gt;6.54&lt;/h2&gt;&#xA;&lt;h2 id=&#34;that-which-is-not-good-for-the-swarm-neither-is-it-good-for-the-bee&#34;&gt;&lt;strong&gt;That which is not good for the swarm, neither is it good for the bee.&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To me this represents the constraints of society, where we as a race constantly do things that will not benefit others. We are digging ourselves into a hole that will soon be inescapable.&#xA;He could be referring to how how can a person be good when society is bad to them. This could reveal how society has been set up to oppress the common folk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programs and Equipment</title>
-      <link>http://localhost:1313/posts/programs/</link>
+      <link>https://example.org/posts/programs/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programs/</guid>
-      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro.&lt;/li&gt;&#xA;&lt;li&gt;debian with casaos on my Rasberryrry pi which.&lt;/li&gt;&#xA;&lt;li&gt;Void linux on my Hpmini 2140 netbook.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use kitty on both OS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
+      <guid>https://example.org/posts/programs/</guid>
+      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro.&lt;/li&gt;&#xA;&lt;li&gt;debian with casaos on my Rasberryrry pi which.&lt;/li&gt;&#xA;&lt;li&gt;Void linux on my Hpmini 2140 netbook.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use iterm2 and urxvt.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
     </item>
     <item>
       <title>The porter</title>
-      <link>http://localhost:1313/posts/porter/</link>
+      <link>https://example.org/posts/porter/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/porter/</guid>
+      <guid>https://example.org/posts/porter/</guid>
       <description>&lt;h1 id=&#34;the-porter&#34;&gt;The porter&lt;/h1&gt;&#xA;&lt;p&gt;The porter appears on the stage in a drunken stupor.&#xA;His character serves as comic relief.&#xA;There are hidden messages in the soliloquy&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;adds unsettling humour to the soliloquy.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;knock, knock, knock. Macbeth knocking at the gates of his own hell abandoning his humanity for an evil or fiendish nature.&lt;/li&gt;&#xA;&lt;li&gt;ironically imagines himself to be the porter of the gate of hell “if a man were porter of hell-gate, he should have old turning the key.”&lt;/li&gt;&#xA;&lt;li&gt;he then imagines three people approaching the gates of hell&lt;/li&gt;&#xA;&lt;li&gt;A farmer who stored up grain in hope of making a profit but kills himself when a good harvest lowers the price&lt;/li&gt;&#xA;&lt;li&gt;an equivocator who covers up his crimes with the skill of his tongue&lt;/li&gt;&#xA;&lt;li&gt;a tailor who is discovered cheating his customers by cutting cloth out of the garment he sells&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;macbeths-sins&#34;&gt;Macbeth’s sins&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These three characters represents a different sin that is in Macbeth.&lt;/li&gt;&#xA;&lt;li&gt;The farmer overreaches but loses everything instead&lt;/li&gt;&#xA;&lt;li&gt;The equivocator reveals how Macbeth is a skilful liar who pledges unfailing allegiance to the king yet murders him in cold blood&lt;/li&gt;&#xA;&lt;li&gt;the tailor makes the clothes look better than they are. Macbeth&amp;rsquo;s false aspirations for the crown he is essentially clothing himself in a lie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ending&#34;&gt;Ending&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;He ends the soliloquy with the question “What are you?”&lt;/li&gt;&#xA;&lt;li&gt;The porter breaks the fourth wall, seeming to speak to the audience- asks us what one of the sinners we are.&lt;/li&gt;&#xA;&lt;li&gt;this line would have made the audience question their own morality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The porters last line “I pray you, remember the porter.” Perhaps a warning to the audience not to follow Macbeth’s traitorous exampleThe madness and humour in the porter’s speech amplify the horror of the play as a whole.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/info/</link>
+      <link>https://example.org/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/</guid>
-      <description>&lt;p&gt;I am a sixth form student studying Maths, Physics, Computer Science and Further Mathematics. On this website you can find my explorations of minimalism, wellness, open-source software and writing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;now&#34;&gt;Now&lt;/h2&gt;&#xA;&lt;p&gt;What I am doing &lt;a href=&#34;http://localhost:1313/now/&#34;&gt;now&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://example.org/info/</guid>
+      <description>&lt;p&gt;I am a sixth form student studying Maths, Physics, Computer Science and Further Mathematics. On this website you can find my explorations of minimalism, wellness, open-source software and writing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.org/links/&#34;&gt;Find me online&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;now&#34;&gt;Now&lt;/h2&gt;&#xA;&lt;p&gt;What I am doing &lt;a href=&#34;https://example.org/now/&#34;&gt;now&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Links</title>
-      <link>http://localhost:1313/links/</link>
+      <link>https://example.org/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description>&lt;h2 id=&#34;find-me-online&#34;&gt;Find me online&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/oyzad&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/key.txt&#34;&gt;82B9 2007 9E0F 18BC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:him@oyzad.xyz&#34;&gt;him@oyzad.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;gemini://envs.net/~pinxi/&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://example.org/links/</guid>
+      <description>&lt;h2 id=&#34;find-me-online&#34;&gt;Find me online&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/oyzad&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.org/key.txt&#34;&gt;82B9 2007 9E0F 18BC&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:him@oyzad.xyz&#34;&gt;him@oyzad.xyz&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.org/posts/&#34;&gt;Blog&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;gemini://envs.net/~pinxi/&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://example.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
-      <description>&lt;h3 id=&#34;cool-people-and-sites-on-the-internet&#34;&gt;Cool people and sites on the internet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sylvanfranklin.com/&#34;&gt;https://sylvanfranklin.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;website inspired by &lt;a href=&#34;https://williamjansson.com/&#34;&gt;https://williamjansson.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://motherfuckingwebsite.com/&#34;&gt;https://motherfuckingwebsite.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://suckless.org&#34;&gt;https://suckless.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linkarzu.com/&#34;&gt;https://linkarzu.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://uint23.xyz/&#34;&gt;https://uint23.xyz/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://example.org/people/</guid>
+      <description>&lt;h3 id=&#34;cool-people-and-sites-on-the-internet&#34;&gt;Cool people and sites on the internet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sylvanfranklin.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://sylvanfranklin.com/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://williamjansson.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://williamjansson.com/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://motherfuckingwebsite.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://motherfuckingwebsite.com/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://suckless.org&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://suckless.org&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linkarzu.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://linkarzu.com/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://uint23.xyz/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://uint23.xyz/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://vhbelvadi.com/&#34; class=&#34;external-link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;https://vhbelvadi.com/&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Uses</title>
-      <link>http://localhost:1313/uses/</link>
+      <link>https://example.org/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/uses/</guid>
+      <guid>https://example.org/uses/</guid>
       <description>&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;&#xA;&lt;h3 id=&#34;computers&#34;&gt;Computers&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Macbook Pro late 2013&lt;/li&gt;&#xA;&lt;li&gt;Rasberry Pi 4b&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently using to self host tools using Casaos.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Hpmini 2140&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently running Void linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;desktop&#34;&gt;Desktop&lt;/h3&gt;&#xA;&lt;p&gt;I am Currently building a pc with the Asus z9pe-d8 ws motherboad.&lt;/p&gt;&#xA;&lt;p&gt;CPU - Dual Intel Xeon&lt;/p&gt;&#xA;&lt;p&gt;Memory - Hyperx blu 4gbx8&lt;/p&gt;&#xA;&lt;p&gt;Storage - 5.5tb HDD, 250gb SSD&lt;/p&gt;&#xA;&lt;p&gt;GPU - Nvidia Quadro p400, Nvidia Quadro fx380, ASUS GeForce EN210 Silent&lt;/p&gt;&#xA;&lt;p&gt;Case - Lian Li PC-P80 Armorsuit&lt;/p&gt;</description>
     </item>
   </channel>

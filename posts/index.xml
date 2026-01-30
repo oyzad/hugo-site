@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on oyzad&#39;s desktop</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meditations by Marcus Aurelius</title>
-      <link>http://localhost:1313/posts/meditations/</link>
+      <link>https://example.org/posts/meditations/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meditations/</guid>
+      <guid>https://example.org/posts/meditations/</guid>
       <description>&lt;p&gt;Meditations was written by the Roman emperor Marcus Aurelius without any intention of publication. The &lt;em&gt;Meditations&lt;/em&gt; offer a collection of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe.&lt;/p&gt;&#xA;&lt;p&gt;Below I have written about certain sections that have really spoken to me&lt;/p&gt;&#xA;&lt;h2 id=&#34;654&#34;&gt;6.54&lt;/h2&gt;&#xA;&lt;h2 id=&#34;that-which-is-not-good-for-the-swarm-neither-is-it-good-for-the-bee&#34;&gt;&lt;strong&gt;That which is not good for the swarm, neither is it good for the bee.&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To me this represents the constraints of society, where we as a race constantly do things that will not benefit others. We are digging ourselves into a hole that will soon be inescapable.&#xA;He could be referring to how how can a person be good when society is bad to them. This could reveal how society has been set up to oppress the common folk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programs and Equipment</title>
-      <link>http://localhost:1313/posts/programs/</link>
+      <link>https://example.org/posts/programs/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programs/</guid>
-      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro.&lt;/li&gt;&#xA;&lt;li&gt;debian with casaos on my Rasberryrry pi which.&lt;/li&gt;&#xA;&lt;li&gt;Void linux on my Hpmini 2140 netbook.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use kitty on both OS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
+      <guid>https://example.org/posts/programs/</guid>
+      <description>&lt;p&gt;Here are all of the programs that I use, all of which I have been using for a long time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;p&gt;Operating System&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use Macos on my macbook pro.&lt;/li&gt;&#xA;&lt;li&gt;debian with casaos on my Rasberryrry pi which.&lt;/li&gt;&#xA;&lt;li&gt;Void linux on my Hpmini 2140 netbook.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Terminal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use iterm2 and urxvt.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Shell&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I use zsh as my shell. It has very much of the same features as bash but with better plugins for autocompletion. I have OhMyZsh installed.&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Window Manager/Desktop Environment&lt;/p&gt;</description>
     </item>
     <item>
       <title>The porter</title>
-      <link>http://localhost:1313/posts/porter/</link>
+      <link>https://example.org/posts/porter/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/porter/</guid>
+      <guid>https://example.org/posts/porter/</guid>
       <description>&lt;h1 id=&#34;the-porter&#34;&gt;The porter&lt;/h1&gt;&#xA;&lt;p&gt;The porter appears on the stage in a drunken stupor.&#xA;His character serves as comic relief.&#xA;There are hidden messages in the soliloquy&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;adds unsettling humour to the soliloquy.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;knock, knock, knock. Macbeth knocking at the gates of his own hell abandoning his humanity for an evil or fiendish nature.&lt;/li&gt;&#xA;&lt;li&gt;ironically imagines himself to be the porter of the gate of hell “if a man were porter of hell-gate, he should have old turning the key.”&lt;/li&gt;&#xA;&lt;li&gt;he then imagines three people approaching the gates of hell&lt;/li&gt;&#xA;&lt;li&gt;A farmer who stored up grain in hope of making a profit but kills himself when a good harvest lowers the price&lt;/li&gt;&#xA;&lt;li&gt;an equivocator who covers up his crimes with the skill of his tongue&lt;/li&gt;&#xA;&lt;li&gt;a tailor who is discovered cheating his customers by cutting cloth out of the garment he sells&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;macbeths-sins&#34;&gt;Macbeth’s sins&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These three characters represents a different sin that is in Macbeth.&lt;/li&gt;&#xA;&lt;li&gt;The farmer overreaches but loses everything instead&lt;/li&gt;&#xA;&lt;li&gt;The equivocator reveals how Macbeth is a skilful liar who pledges unfailing allegiance to the king yet murders him in cold blood&lt;/li&gt;&#xA;&lt;li&gt;the tailor makes the clothes look better than they are. Macbeth&amp;rsquo;s false aspirations for the crown he is essentially clothing himself in a lie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ending&#34;&gt;Ending&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;He ends the soliloquy with the question “What are you?”&lt;/li&gt;&#xA;&lt;li&gt;The porter breaks the fourth wall, seeming to speak to the audience- asks us what one of the sinners we are.&lt;/li&gt;&#xA;&lt;li&gt;this line would have made the audience question their own morality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The porters last line “I pray you, remember the porter.” Perhaps a warning to the audience not to follow Macbeth’s traitorous exampleThe madness and humour in the porter’s speech amplify the horror of the play as a whole.&lt;/p&gt;</description>
     </item>
   </channel>

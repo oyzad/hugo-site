@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Inconsolata Nerd Font Propo';
+    src: url('InconsolataNFP-Bold.woff2') format('woff2'),
+        url('InconsolataNFP-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata Nerd Font Mono';
+    src: url('InconsolataNFM-Bold.woff2') format('woff2'),
+        url('InconsolataNFM-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata Nerd Font Propo';
+    src: url('InconsolataNFP-Regular.woff2') format('woff2'),
+        url('InconsolataNFP-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata Nerd Font Mono';
+    src: url('InconsolataNFM-Regular.woff2') format('woff2'),
+        url('InconsolataNFM-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata Nerd Font';
+    src: url('InconsolataNF-Bold.woff2') format('woff2'),
+        url('InconsolataNF-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata Nerd Font';
+    src: url('InconsolataNF-Regular.woff2') format('woff2'),
+        url('InconsolataNF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
