@@ -6,12 +6,19 @@
     <description>Recent content in Tags on oyzad&#39;s desktop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://example.org/tags/life/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/life/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Philosophy</title>
       <link>https://example.org/tags/philosophy/</link>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/philosophy/</guid>
       <description></description>
     </item>
